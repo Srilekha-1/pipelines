@@ -1,0 +1,9 @@
+{
+	"name": "copydatatask",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "647cf3e0-8235-4634-b267-5b577c12a805",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
